@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-27 20:08:07</sys_created_on>
+        <sys_id>ba6431951b237300505640c6cc4bcb9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_389647_iplookup_ipaddressinfo.x_389647_iplookup.ipaddressinfo_user</sys_name>
+        <sys_package display_value="IPLookup" source="x_389647_iplookup">a3b491d91baf3300505640c6cc4bcb96</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">a3b491d91baf3300505640c6cc4bcb96</sys_scope>
+        <sys_security_acl display_value="x_389647_iplookup_ipaddressinfo">fe6431951b237300505640c6cc4bcb9c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_ba6431951b237300505640c6cc4bcb9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-27 20:08:07</sys_updated_on>
+        <sys_user_role display_value="x_389647_iplookup.ipaddressinfo_user" name="x_389647_iplookup.ipaddressinfo_user">fe6431951b237300505640c6cc4bcb85</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
